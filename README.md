@@ -2,4 +2,14 @@
 
 <h3 align="center">⚙Tech Stack⚙</h3>
 
-![Geon-o's github stats](https://github-readme-stats.vercel.app/api?username=Geon-o&show_icons=true)[![Geon-o's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-o&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Geon-o)
+<div align="center">
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+  <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
+</div>
+</br>
+
+
+
