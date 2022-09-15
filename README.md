@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi!%20I'm%20Geon&fontSize=50" />
 
-<h4 align="center">🙋‍♂️INTRODUCE🙋‍</h4>
+<h3 align="center">🙋‍♂️INTRODUCE🙋‍</h3>
 <div align="center">
 
 ```sh
@@ -9,7 +9,7 @@
 ```
 
 
-<h4 align="center">📚Tech Stack📚</h4>
+<h3 align="center">📚Tech Stack📚</h3>
 
 <div align="center">
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -20,7 +20,7 @@
 </div>
 <br/>
 
-<h4 align="center">Contact To Me❗</h4>
+<h3 align="center">Contact To Me❗</h3>
 <a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/></a>
 
 
