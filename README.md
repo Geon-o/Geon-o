@@ -20,7 +20,7 @@
 </div>
 <br/>
 
-<h4 align="center">Contact Me❗</h4>
+<h4 align="center">Contact To Me❗</h4>
 <a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/></a>
 
 
