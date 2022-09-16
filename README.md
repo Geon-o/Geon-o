@@ -20,7 +20,12 @@
 </div>
 <br/>
 
-<h3 align="center">Contact To Me❗</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-o&layout=compact&theme=tokyonight)
+
+
+
+<h3 align="center">🌳Contact To Me🌳</h3>
 <a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/></a>
 
 
