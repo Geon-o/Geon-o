@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi!%20I'm%20Geon&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi%20there%20I'm%20Geon&fontSize=50" />
 
 <h3 align="center">🙋‍♂️INTRODUCE🙋‍</h3>
 <div align="center">
 
 ```sh
 안녕하세요!👋
-우아한 코드를 작성하는 백엔드 개발자가 되기 위해 노력하고 공부하는 개발자 진건오입니다!
+우아한 코드를 작성 할 줄 아는 백엔드 개발자가 되기 위해 노력하고 공부하는 개발자 진건오입니다!
 ```
 
 
