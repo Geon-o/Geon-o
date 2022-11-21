@@ -6,6 +6,9 @@
 ```sh
 안녕하세요!👋
 우아한 코드를 작성하기 위해 끊임없이 공부하는 백엔드 개발자, 진건오입니다!
+
+Hello! 👋
+I am Jin Geon-o, a back-end developer who constantly studies to write elegant code.
 ```
 
 
