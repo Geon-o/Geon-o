@@ -20,6 +20,7 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
   <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="JPA" src ="https://img.shields.io/badge/JPA-DC382D.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 </div>
   
  <h3 align="center">📚Development Tools📚</h3>
