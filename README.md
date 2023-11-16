@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi%20there%20I'm%20Geon&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" />
 
 <h3 align="center">🙋‍♂️INTRODUCE🙋‍</h3>
 <div align="center">
