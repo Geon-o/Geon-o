@@ -46,5 +46,4 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
 <h3 align="center">🌳Contact To Me🌳</h3>
 <a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/></a>
 
-![profile views](https://komarev.com/ghpvc/?username=Geon-o&color=green) 
 
