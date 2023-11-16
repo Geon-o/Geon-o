@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" />
 
-<h3 align="center">🙋‍♂️INTRODUCE🙋‍</h3>
-<div align="center">
+<h2 align="left">INTRODUCE‍</h2>
+<div align="left">
 
 ```sh
 안녕하세요!👋
@@ -12,9 +12,9 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
 ```
 
 
-<h3 align="center">📚Tech Stack📚</h3>
+<h2 align="left">Tech Stack</h2>
 
-<div align="center">
+<div align="left">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
@@ -23,8 +23,8 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-DC382D.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 </div>
   
- <h3 align="center">📚Development Tools📚</h3>
-<div align="center">
+ <h2 align="left">Development Tools</h2>
+<div align="lfet">
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
@@ -32,8 +32,8 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
   
-<h3 align="center">📚Collaboration Tool📚</h3>
-<div align="center">
+<h2 align="left">Collaboration Tool</h2>
+<div align="left">
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -42,8 +42,9 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-o&layout=compact&theme=tokyonight)
 
-
-<h3 align="center">🌳Contact To Me🌳</h3>
-<a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/></a>
+<div align="center">
+  <h2>🌳Contact To Me🌳</h2>
+  <a href="mailto:geon.o.jin09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon.o.jin09@gmail.com"/>    </a>
+</div>
 
 
