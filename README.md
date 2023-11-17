@@ -28,7 +28,6 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
   
