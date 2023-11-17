@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0cfeb&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=4d6b53&fontColor=ffffff&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" />
 
-<h2 align="left">INTRODUCE‍</h2>
+<h2 align="left" >INTRODUCE‍</h2>
 <div align="left">
 
 ```sh
@@ -11,9 +11,10 @@ Hello! 👋
 I am Jin Geon-o, a back-end developer who constantly studies to write elegant code.
 ```
 </div>
-</br>
-<h2 align="left">Tech Stack</h2>
 
+</br>
+
+<h2 align="left">Tech Stack</h2>
 <div align="left">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -22,7 +23,9 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-DC382D.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 </div>
+
 </br>
+
  <h2 align="left">Development Tools</h2>
 <div align="lfet">
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
@@ -30,7 +33,9 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
+
 </br>
+
 <h2 align="left">Collaboration Tool</h2>
 <div align="left">
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -38,8 +43,9 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </div>
 <br/>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-o&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-o&layout=compact&theme=tokyonight" />
+</div>
 
 <div align="center">
   <h2>🌳Contact To Me🌳</h2>
