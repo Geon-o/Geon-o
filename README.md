@@ -10,8 +10,8 @@
 Hello! 👋
 I am Jin Geon-o, a back-end developer who constantly studies to write elegant code.
 ```
-
-
+</div>
+</br>
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
@@ -22,7 +22,7 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-DC382D.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 </div>
-  
+</br>
  <h2 align="left">Development Tools</h2>
 <div align="lfet">
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
@@ -30,7 +30,7 @@ I am Jin Geon-o, a back-end developer who constantly studies to write elegant co
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
-  
+</br>
 <h2 align="left">Collaboration Tool</h2>
 <div align="left">
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
