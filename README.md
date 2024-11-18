@@ -1,19 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=4d6b53&fontColor=ffffff&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" />
-
-<h2 align="left" >INTRODUCE‍</h2>
-<div align="left">
-
-```sh
-안녕하세요!👋
-효율적이며 우아한 코드를 작성하기 위해 끊임없이 노력하는 백엔드 개발자, 진건오입니다!
-
-Hello! 👋
-I am Jin Geon-o, a back-end developer who constantly studies to write elegant code.
-```
-</div>
-
-</br>
-
+<!--<img src="https://capsule-render.vercel.app/api?type=rounded&color=4d6b53&fontColor=ffffff&height=100&section=header&text=Hi%20there%20I'm%20Geon-o&fontSize=50" /> 
+<h1 align="left"> -->
 <h2 align="left">Tech Stack</h2>
 <div align="left">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
